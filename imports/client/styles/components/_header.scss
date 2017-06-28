@@ -1,0 +1,19 @@
+.header {
+  background-color: $brand-primary;
+  color: white;
+
+
+
+}
+
+.header__content {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding: 1rem 15rem;
+  max-width: $site-max-width;
+  padding: $space;
+}
+.header__title {
+    margin: 0;
+}
